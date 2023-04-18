@@ -4,6 +4,7 @@ Study of the effects of different generic manufacturers on health outcomes in Me
 
 #### Code Contributors
 * Evan Flack (evanjflack@gmail.com)
+* Tyler Mansfield (tyler.mansfield96@gmail.com)
 
 #### Additional Contributors
 * Amitabh Chandra
