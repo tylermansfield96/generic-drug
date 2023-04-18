@@ -15,4 +15,5 @@ Study of the effects of different generic manufacturers on health outcomes in Me
 * `01_sample:` Initial subsetting of claims data (SAS), month-level sample generation (R), and subsetting of claims to classes of interest (R)
 * `02_features:` Scripts to make health outcome and control variables
 * `03_model:` Scripts to make final model data, initial summary statistics, model health outcomes on manufacturers, and estimate balance/falsification checks
+* `04_paper:` Scripts used to generate figures for manuscript
 * `supporting_code:` Scripts to load packages and define plot themes
